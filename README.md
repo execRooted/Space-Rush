@@ -48,12 +48,12 @@ A space dodging game with multiple modes, power-ups, and high score tracking. Na
    python3 main.py
    ```
    
-   **Download the file(On Windows, Python):**
-    1. Downlaod the zip
-    2. Unzip it using winrar or 7zip
-    3. open CMD in the game directory and run: ```pip install -r requirements.txt ```
-    4. Then click on launcher.bat
-    5. Done. Enjoy! :)
+   **Download the file(On Windows, Python):**  
+    1. Downlaod the zip  
+    2. Unzip it using winrar or 7zip  
+    3. open CMD in the game directory and run: ```pip install -r requirements.txt ```  
+    4. Then click on launcher.bat  
+    5. Done. Enjoy! :)  
 
 ---
 
