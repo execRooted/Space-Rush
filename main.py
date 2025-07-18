@@ -72,16 +72,15 @@ def load_high_scores():
 
 
 def save_high_scores():
-    def save_high_scores():
-        global high_scores
-        with open("highscores.txt", "w") as f:
-            f.write(
-                f"{high_scores['classic']},"
-                f"{high_scores['falling']},"
-                f"{high_scores['hardcore']},"
-                f"{high_scores['reversed']},"
-                f"{high_scores['chase']}"
-            )
+    global high_scores
+    with open("highscores.txt", "w") as f:
+        f.write(
+            f"{high_scores['classic']},"
+            f"{high_scores['falling']},"
+            f"{high_scores['hardcore']},"
+            f"{high_scores['reversed']},"
+            f"{high_scores['chase']}"
+        )
 
 
 # --- Screen Setup ---
