@@ -4,7 +4,7 @@
 // Pin definitions
 const int X_PIN = A0;    // Joystick X axis
 const int Y_PIN = A1;    // Joystick Y axis
-const int BUTTON_PIN = 22; // Joystick button
+const int BUTTON_PIN = 2; // Joystick button
 
 // Variables
 int xValue = 0;
