@@ -21,11 +21,11 @@ loading_menu = pygame.mixer.Sound("loading_menu.mp3")
 
 
 mode_music = {
-    "classic": "Hammer of Justice.mp3",
-    "falling": "Spear of Justice.mp3",
-    "hardcore": "Attack of the Killer Queen.mp3",
+    "classic": "Hammer.of.Justice.mp3",
+    "falling": "Spear.of.Justice.mp3",
+    "hardcore": "Attack.of.the.Killer.Queen.mp3",
     "reversed": "MEGALOVANIA.mp3",
-    "chase": "Spider Dance.mp3"
+    "chase": "Spider.Dance.mp3"
 }
 
 pygame.mixer.music.set_volume(0.3)
