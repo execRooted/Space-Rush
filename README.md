@@ -10,6 +10,8 @@ A space dodging game with multiple modes, power-ups, and high score tracking. Na
 
 ## Features
 
+- Press esc when in game to pause it.
+
 - **5 Unique Game Modes**:
   - Classic Mode: Enemies come from above
   - Falling Enemies Mode: Enemies attack from all directions
