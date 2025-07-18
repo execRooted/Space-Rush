@@ -51,10 +51,16 @@ A space dodging game with multiple modes, power-ups, and high score tracking. Na
    **Download the file(On Windows, Python):**  
     1. Downlaod the zip  
     2. Unzip it using winrar or 7zip  
-    3. open CMD in the game directory and run: ```pip install -r requirements.txt ```  
+    3. Open CMD in the game directory and run: ```pip install -r requirements.txt ```  
     4. Then click on launcher.bat  
     5. Done. Enjoy! :)  
-
+    
+   **Download the file(On Windows, Releases(easier version)):**  
+    1. Go to releases
+    2. Downlaod Space-RushV1.0.0 
+    3. Unzip it using winRAR or 7zip
+    4. Click on Space-Rush.exe 
+    5. Done. Enjoy! :)  
 ---
 
 <h2>Joystick mode setup</h2>
