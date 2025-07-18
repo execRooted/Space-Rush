@@ -57,7 +57,7 @@ A space dodging game with multiple modes, power-ups, and high score tracking. Na
     
    **Download the file(On Windows, Releases(easier version)):**  
     1. Go to releases
-    2. Downlaod Space-RushV1.0.0 
+    2. Downlaod Space-RushV1.0.0.rar 
     3. Unzip it using winRAR or 7zip
     4. Click on Space-Rush.exe 
     5. Done. Enjoy! :)  
