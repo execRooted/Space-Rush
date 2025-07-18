@@ -10,7 +10,7 @@ A space dodging game with multiple modes, power-ups, and high score tracking. Na
 
 ## Features
 
-- Press esc when in game to pause it.
+Press esc when playing to pause the gameplay.
 
 - **5 Unique Game Modes**:
   - Classic Mode: Enemies come from above
