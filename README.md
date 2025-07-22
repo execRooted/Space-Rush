@@ -3,7 +3,7 @@
 A space dodging game with multiple modes, power-ups, and high score tracking. Navigate through waves of enemies while collecting power-ups to survive as long as possible! Made in Python with Turtle.
 
 ![Alt text](Space-Rush.png)
-![Alt text](Space-Rush2.png)
+![Alt text](Space-Rush1.png)
 
 
 
