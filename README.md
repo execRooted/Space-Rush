@@ -21,6 +21,11 @@ Press esc when playing to pause the gameplay.
   - Hardcore Mode: Maximum difficulty with one life
   - Reversed Hardcore: Hardcore with inverted controls
   - Chase Mode: Enemies pursue you before respawning
+  - Bullet Mode: Bullet bombs spawn, giving off bullets in all directions
+  - Challenge 1: Gamemodes stack up, excluding hardcore or rev hardcore
+  - Challenge 2: Exactly like Challenge 1 but with one life and no powerups(hardcore mode)
+  - Challenge 3: Exactly like Сhallenge 2 but with reversed controlls(reversed hardcore)
+  - EXTREME CHALLENGE: Last challenge. Not gonna spoil teh surprise here, but you have 3 lives and no respawn protection.
 
 - **Power-Up System**:
   - Life (Cyan): Gain extra lives
@@ -30,7 +35,7 @@ Press esc when playing to pause the gameplay.
 - **Full Audio Experience**:
   - Different background music for each mode
   - Sound effects for all actions
-  - Thanks Toby Fox for the audio. Ur the best :)
+  - I DO NOT OWN ANY OF THE AUDIO USED.
 
 - **Control Options**:
   - Keyboard (WASD) support
