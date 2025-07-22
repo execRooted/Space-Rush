@@ -1,12 +1,13 @@
 # Space Rush
 
-A space dodging game with multiple modes, power-ups, and high score tracking. Navigate through waves of enemies while collecting power-ups to survive as long as possible! Made in Python with Turtle.   
-FIND THE GAME IN RELEASES TAB!!!
+A space dodging game with multiple modes, power-ups, and high score tracking. Navigate through waves of enemies while collecting power-ups to survive as long as possible! 
+
+***Game is in the releases tab***
 
 
-![Alt text](Space-Rush.png)
+![](Space-Rush.png)
 
-![Alt text](Space-Rush1.png)
+![](Space_Rush.png)
 
 
 
