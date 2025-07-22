@@ -16,7 +16,7 @@ A space dodging game with multiple modes, power-ups, and high score tracking. Na
 
 Press esc when playing to pause the gameplay.
 
-- **5 Unique Game Modes**:
+- **10 Unique Game Modes**:
   - Classic Mode: Enemies come from above - Press 1 to activate
   - Falling Enemies Mode: Enemies attack from all directions - Press 2 to activate
   - Hardcore Mode: Maximum difficulty with one life - Press 3 to activate
@@ -36,7 +36,7 @@ Press esc when playing to pause the gameplay.
 - **Full Audio Experience**:
   - Different background music for each mode
   - Sound effects for all actions
-  - I DO NOT OWN ANY OF THE AUDIO USED.
+  - I DO NOT OWN ANY OF THE AUDIO OR SOUND EFFECTS USED.
 
 - **Control Options**:
   - Keyboard (WASD) support
