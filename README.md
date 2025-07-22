@@ -25,7 +25,7 @@ Press esc when playing to pause the gameplay.
   - Challenge 1: Gamemodes stack up, excluding hardcore or rev hardcore - Press 7 to activate
   - Challenge 2: Exactly like Challenge 1 but with one life and no powerups(hardcore mode) - Press 8 to activate
   - Challenge 3: Exactly like Сhallenge 2 but with reversed controlls(reversed hardcore) - press 9 to activate
-  - EXTREME CHALLENGE: Last challenge. Not gonna spoil teh surprise here, but you have 3 lives and no respawn protection. - Press 0 to activate
+  - EXTREME CHALLENGE: Last challenge. Not gonna spoil teh surprise here, but you have 3 lives. - Press 0 to activate
 
 - **Power-Up System**:
   - Life (Cyan): Gain extra lives
